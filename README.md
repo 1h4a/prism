@@ -10,6 +10,6 @@ Prism is being built on 1.17.1, and will probably work on many versions in the f
 
 # License
 
-Prism is made available under the [GNU GPL v3.0](https://github.com/1h4a/prism/blob/main/LICENSE) license.
+Prism is made available under the [MIT License](https://github.com/1h4a/prism/blob/main/LICENSE).
 
-Prism uses [Onnowhere's Core Shaders](https://github.com/onnowhere/core_shaders) VSH util and core shader template under the [MIT License](https://github.com/1h4a/prism/blob/main/VSH-LICENSE).
+Prism uses [Onnowhere's Core Shaders](https://github.com/onnowhere/core_shaders) VSH util and core shader template under the [MIT License](https://github.com/1h4a/prism/blob/main/LICENSE).
