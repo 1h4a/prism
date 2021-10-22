@@ -8,4 +8,6 @@ Prism is being built on 1.17.1, and will probably work on many versions in the f
 
 **Current Stable Release: None! It'll be done soon <3**
 
-You can use Prism and its components, disassemble them, heavily alter them, etc. freely in your own projects, as long as you disclose the original source.
+# License
+
+Prism is made available under the [GNU GPL v3.0](https://github.com/1h4a/prism/blob/main/LICENSE) license.
