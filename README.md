@@ -4,6 +4,8 @@ Prism is a library of program shaders aimed to encourage Java mapmakers to "set 
 
 Eventually, Prism will also contain guides and a comprehensive wiki for Prism-specific shaders and vanilla shaders and their development.
 
+Prism is being built on 1.17.1, and will probably work on many versions in the future.
+
 **Current Stable Release: None! It'll be done soon <3**
 
 You can use Prism and its components, disassemble them, heavily alter them, etc. freely in your own projects, as long as you disclose the original source.
