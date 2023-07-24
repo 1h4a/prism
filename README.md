@@ -1,15 +1,12 @@
 # prism 
 
-Prism is a library of program shaders aimed to encourage Java mapmakers to "set the scene" better by utilizing all of vanilla Minecraft's potential, including vanilla shaders, as well as containing utilities (in the form of includes and ultra-light software to make certain tasks easier) and several fragment and vertex shaders that are left for developers to use in their own shaders.
+Prism is designed to be companion software to Minecraft Java mapmakers and aims to expand their options in terms of graphics.
 
-Eventually, Prism will also contain guides and a comprehensive wiki for Prism-specific shaders and vanilla shaders and their development.
-
-Prism is being built on 1.17.1, and will probably work on many versions in the future.
-
-**Current Stable Release: None! It'll be done soon <3**
+Currently planned features:
+- Re-write of what used to be [pthy](https://github.com/1h4a/pthy-source)
+- Resource management and world bundling
+- Vanilla shader library, simplified (non-text based) shader editing and default render options
 
 # License
 
 Prism is made available under the [MIT License](https://github.com/1h4a/prism/blob/main/LICENSE).
-
-Prism uses [Onnowhere's Core Shaders](https://github.com/onnowhere/core_shaders) VSH util and core shader template under the [MIT License](https://github.com/1h4a/prism/blob/main/LICENSE).
